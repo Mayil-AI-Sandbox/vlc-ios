@@ -1,0 +1,3 @@
+"NSPhotoLibraryUsageDescription" = "Pro ukládání videí, budeme potřebovat přístup k Vašemu fotoaparátu";
+"NSPhotoLibraryAddUsageDescription" = "Pro ukládání videí, budeme potřebovat přístup k Vašemu fotoaparátu";
+"NSFaceIDUsageDescription" = "Umožnit přístup k Face ID pro odemknutí VLC";

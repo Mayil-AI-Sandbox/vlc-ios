@@ -1,0 +1,3 @@
+"NSPhotoLibraryUsageDescription" = "Untuk dapat menyimpan video kami membutuhkan akses ke camera roll Anda";
+"NSPhotoLibraryAddUsageDescription" = "Untuk dapat menyimpan video kami membutuhkan akses ke camera roll Anda";
+"NSFaceIDUsageDescription" = "Berikan akses ke Face ID untuk membuka VLC";
